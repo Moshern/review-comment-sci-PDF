@@ -90,8 +90,6 @@ git clone https://github.com/Moshern/review-comment-sci-PDF.git review-comment-s
 - [PDF 阅读流程](references/pdf-reading.md)：读取、视觉核验、证据定位及失败处理。
 - [方法检查项](references/method-checks.md)：按研究设计选择的评审参考。
 - [回归场景](evals/README.md)：跨学科、缺资料、图像不可读等行为检查。
-- [迁移说明](MIGRATION.md)：从原版移除或泛化的专业规则。
-- [参赛改进清单](COMPETITION.md)：对应官方规则的改进与待办。
 
 回归场景用于人工或智能体自测；预期行为不是已经通过的运行结果，也不是专业准确率证明。不要将审稿中的保密论文作为公开示例上传。
 
