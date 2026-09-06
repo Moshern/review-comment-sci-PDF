@@ -1,0 +1,9 @@
+outputs/
+*.pdf
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
+my-glossary.md
+method-notes.md
+domain-profile.local.*

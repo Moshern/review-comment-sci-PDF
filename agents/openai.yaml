@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨学科论文评审与双语意见"
+  short_description: "按研究方向独立精读论文，生成有证据定位和可执行修改建议的中英文审稿草稿"
+  default_prompt: "请使用 $review-comment-sci-pdf，结合我的研究方向处理指定的论文 PDF。"
